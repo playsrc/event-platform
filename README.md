@@ -14,9 +14,9 @@ A aplicação Event Platform será desenvolvida durante a semana do evento [Igni
 
 - [x] 20/06 - Aula 1 • O início da especialização em ReactJS
 - [x] 21/06 - Aula 2 • Estrutura visual do projeto
-- [] 22/06 - Aula prática 3
-- [] 23/06 - Aula prática 4
-- [] 24/06 - Aula prática 5
+- [ ] 22/06 - Aula prática 3
+- [ ] 23/06 - Aula prática 4
+- [ ] 24/06 - Aula prática 5
 
 ## Instalação e uso
 
