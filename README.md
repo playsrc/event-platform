@@ -1,6 +1,6 @@
 # Event Platform ✨ - Ignite Lab 🧪
 
-![](https://i.imgur.com/jeCR224.jpg)
+![](https://i.imgur.com/eRTsOKh.jpg)
 
 <h4 align="center"> 
 	🚧  Projeto em desenvolvimento 🚧
@@ -14,7 +14,7 @@ A aplicação Event Platform será desenvolvida durante a semana do evento [Igni
 
 - [x] 20/06 - Aula 1 • O início da especialização em ReactJS
 - [x] 21/06 - Aula 2 • Estrutura visual do projeto
-- [ ] 22/06 - Aula prática 3
+- [x] 22/06 - Aula 3 • Roteamento e player da aula
 - [ ] 23/06 - Aula prática 4
 - [ ] 24/06 - Aula prática 5
 
