@@ -1,6 +1,6 @@
 # Event Platform ✨ - Ignite Lab 🧪
 
-![](https://i.imgur.com/eRTsOKh.jpg)
+![](https://i.imgur.com/U7GKp6E.jpg)
 
 <h4 align="center"> 
 	🚧  Projeto em desenvolvimento 🚧
@@ -15,7 +15,7 @@ A aplicação Event Platform será desenvolvida durante a semana do evento [Igni
 - [x] 20/06 - Aula 1 • O início da especialização em ReactJS
 - [x] 21/06 - Aula 2 • Estrutura visual do projeto
 - [x] 22/06 - Aula 3 • Roteamento e player da aula
-- [ ] 23/06 - Aula prática 4
+- [x] 23/06 - Aula 4 • Inscrição via GraphQL
 - [ ] 24/06 - Aula prática 5
 
 ## Instalação e uso
@@ -24,10 +24,10 @@ A aplicação Event Platform será desenvolvida durante a semana do evento [Igni
 
 ```bash
 # Clone o repositório
-git clone https://github.com/mateusabelli/ignite-event-platform.git
+git clone https://github.com/mateusabelli/event-platform.git
 
 # Acesse a pasta do projeto
-cd ignite-event-platform
+cd event-platform
 
 # Instale as dependências
 npm install
