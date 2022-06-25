@@ -16,7 +16,7 @@ A aplicação Event Platform será desenvolvida durante a semana do evento [Igni
 - [x] 21/06 - Aula 2 • Estrutura visual do projeto
 - [x] 22/06 - Aula 3 • Roteamento e player da aula
 - [x] 23/06 - Aula 4 • Inscrição via GraphQL
-- [ ] 24/06 - Aula prática 5
+- [x] 24/06 - Aula 5 • Deploy, CodeGen e próximos passos
 
 ## Instalação e uso
 
